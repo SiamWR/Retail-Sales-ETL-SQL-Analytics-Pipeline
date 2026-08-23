@@ -29,7 +29,6 @@ Business Insights
 - Pandas
 - Jupyter Notebook
 - PostgreSQL
-- SQL
 - Git/GitHub
 
 ---
