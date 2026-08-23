@@ -1,0 +1,633 @@
+location_id,country,region,state,city,postal_code
+LOC00001,United States,South,Kentucky,Henderson,42420
+LOC00002,United States,West,California,Los Angeles,90036
+LOC00003,United States,South,Florida,Fort Lauderdale,33311
+LOC00004,United States,West,California,Los Angeles,90032
+LOC00005,United States,South,North Carolina,Concord,28027
+LOC00006,United States,West,Washington,Seattle,98103
+LOC00007,United States,Central,Texas,Fort Worth,76106
+LOC00008,United States,Central,Wisconsin,Madison,53711
+LOC00009,United States,West,Utah,West Jordan,84084
+LOC00010,United States,West,California,San Francisco,94109
+LOC00011,United States,Central,Nebraska,Fremont,68025
+LOC00012,United States,East,Pennsylvania,Philadelphia,19140
+LOC00013,United States,West,Utah,Orem,84057
+LOC00014,United States,West,California,Los Angeles,90049
+LOC00015,United States,Central,Texas,Houston,77095
+LOC00016,United States,Central,Texas,Richardson,75080
+LOC00017,United States,Central,Texas,Houston,77041
+LOC00018,United States,Central,Illinois,Naperville,60540
+LOC00019,United States,South,Florida,Melbourne,32935
+LOC00020,United States,Central,Minnesota,Eagan,55122
+LOC00021,United States,Central,Michigan,Westland,48185
+LOC00022,United States,East,Delaware,Dover,19901
+LOC00023,United States,Central,Indiana,New Albany,47150
+LOC00024,United States,East,New York,New York City,10024
+LOC00025,United States,East,New York,Troy,12180
+LOC00026,United States,West,California,Los Angeles,90004
+LOC00027,United States,Central,Illinois,Chicago,60610
+LOC00028,United States,West,Arizona,Gilbert,85234
+LOC00029,United States,South,Virginia,Springfield,22153
+LOC00030,United States,East,New York,New York City,10009
+LOC00031,United States,Central,Michigan,Jackson,49201
+LOC00032,United States,South,Tennessee,Memphis,38109
+LOC00033,United States,Central,Texas,Houston,77070
+LOC00034,United States,South,Alabama,Decatur,35601
+LOC00035,United States,West,California,San Francisco,94122
+LOC00036,United States,South,North Carolina,Durham,27707
+LOC00037,United States,Central,Illinois,Chicago,60623
+LOC00038,United States,South,South Carolina,Columbia,29203
+LOC00039,United States,Central,Minnesota,Rochester,55901
+LOC00040,United States,Central,Minnesota,Minneapolis,55407
+LOC00041,United States,West,Oregon,Portland,97206
+LOC00042,United States,Central,Minnesota,Saint Paul,55106
+LOC00043,United States,West,Colorado,Aurora,80013
+LOC00044,United States,South,North Carolina,Charlotte,28205
+LOC00045,United States,Central,Illinois,Orland Park,60462
+LOC00046,United States,East,New York,New York City,10035
+LOC00047,United States,Central,Iowa,Urbandale,50322
+LOC00048,United States,East,Ohio,Columbus,43229
+LOC00049,United States,South,Tennessee,Bristol,37620
+LOC00050,United States,East,Delaware,Wilmington,19805
+LOC00051,United States,Central,Illinois,Bloomington,61701
+LOC00052,United States,West,Arizona,Phoenix,85023
+LOC00053,United States,West,California,Roseville,95661
+LOC00054,United States,Central,Missouri,Independence,64055
+LOC00055,United States,West,California,Pasadena,91104
+LOC00056,United States,East,Ohio,Newark,43055
+LOC00057,United States,Central,Wisconsin,Franklin,53132
+LOC00058,United States,West,Arizona,Scottsdale,85254
+LOC00059,United States,West,California,San Jose,95123
+LOC00060,United States,West,Washington,Seattle,98105
+LOC00061,United States,West,Washington,Seattle,98115
+LOC00062,United States,Central,Oklahoma,Edmond,73034
+LOC00063,United States,West,California,Los Angeles,90045
+LOC00064,United States,East,Pennsylvania,Philadelphia,19134
+LOC00065,United States,West,New Mexico,Carlsbad,88220
+LOC00066,United States,Central,Texas,San Antonio,78207
+LOC00067,United States,Central,Texas,Houston,77036
+LOC00068,United States,Central,Illinois,Decatur,62521
+LOC00069,United States,South,Louisiana,Monroe,71203
+LOC00070,United States,East,Connecticut,Fairfield,6824
+LOC00071,United States,Central,Texas,Grand Prairie,75051
+LOC00072,United States,West,California,Redlands,92374
+LOC00073,United States,East,Ohio,Hamilton,45011
+LOC00074,United States,East,New Jersey,Westfield,7090
+LOC00075,United States,East,Pennsylvania,Philadelphia,19120
+LOC00076,United States,East,Ohio,Akron,44312
+LOC00077,United States,West,Colorado,Denver,80219
+LOC00078,United States,Central,Texas,Dallas,75220
+LOC00079,United States,South,Tennessee,Franklin,37064
+LOC00080,United States,West,California,Whittier,90604
+LOC00081,United States,Central,Michigan,Saginaw,48601
+LOC00082,United States,East,Ohio,Medina,44256
+LOC00083,United States,East,Ohio,Dublin,43017
+LOC00084,United States,Central,Michigan,Detroit,48227
+LOC00085,United States,South,Tennessee,Columbia,38401
+LOC00086,United States,South,Florida,Tampa,33614
+LOC00087,United States,West,California,Santa Clara,95051
+LOC00088,United States,Central,Minnesota,Lakeville,55044
+LOC00089,United States,West,California,San Diego,92037
+LOC00090,United States,Central,Texas,Pasadena,77506
+LOC00091,United States,West,California,Brentwood,94513
+LOC00092,United States,South,North Carolina,Chapel Hill,27514
+LOC00093,United States,East,New Jersey,Morristown,7960
+LOC00094,United States,East,Ohio,Cincinnati,45231
+LOC00095,United States,West,California,San Francisco,94110
+LOC00096,United States,West,California,Inglewood,90301
+LOC00097,United States,South,Florida,Tamarac,33319
+LOC00098,United States,West,Colorado,Colorado Springs,80906
+LOC00099,United States,East,New Jersey,Belleville,7109
+LOC00100,United States,Central,Michigan,Taylor,48180
+LOC00101,United States,East,New Jersey,Lakewood,8701
+LOC00102,United States,South,Virginia,Arlington,22204
+LOC00103,United States,West,Colorado,Arvada,80004
+LOC00104,United States,East,New Jersey,Hackensack,7601
+LOC00105,United States,South,Florida,Saint Petersburg,33710
+LOC00106,United States,East,Pennsylvania,Philadelphia,19143
+LOC00107,United States,West,California,Long Beach,90805
+LOC00108,United States,West,California,Hesperia,92345
+LOC00109,United States,South,Tennessee,Murfreesboro,37130
+LOC00110,United States,West,Utah,Layton,84041
+LOC00111,United States,Central,Texas,Austin,78745
+LOC00112,United States,East,Massachusetts,Lowell,1852
+LOC00113,United States,South,Georgia,Columbus,31907
+LOC00114,United States,East,Connecticut,Manchester,6040
+LOC00115,United States,Central,Texas,Harlingen,78550
+LOC00116,United States,West,Arizona,Tucson,85705
+LOC00117,United States,Central,Illinois,Quincy,62301
+LOC00118,United States,East,Massachusetts,Franklin,2038
+LOC00119,United States,South,Florida,Pembroke Pines,33024
+LOC00120,United States,West,Washington,Des Moines,98198
+LOC00121,United States,Central,Illinois,Peoria,61604
+LOC00122,United States,West,Nevada,Las Vegas,89115
+LOC00123,United States,East,Rhode Island,Warwick,2886
+LOC00124,United States,South,Florida,Miami,33180
+LOC00125,United States,South,North Carolina,Wilmington,28403
+LOC00126,United States,West,California,Huntington Beach,92646
+LOC00127,United States,South,Kentucky,Richmond,40475
+LOC00128,United States,West,Colorado,Louisville,80027
+LOC00129,United States,East,Massachusetts,Lawrence,1841
+LOC00130,United States,South,Mississippi,Jackson,39212
+LOC00131,United States,Central,Michigan,Canton,48187
+LOC00132,United States,East,New York,New Rochelle,10801
+LOC00133,United States,South,North Carolina,Gastonia,28052
+LOC00134,United States,South,Florida,Jacksonville,32216
+LOC00135,United States,Central,Indiana,Columbus,47201
+LOC00136,United States,East,New York,Auburn,13021
+LOC00137,United States,Central,Oklahoma,Norman,73071
+LOC00138,United States,West,California,Concord,94521
+LOC00139,United States,Central,Illinois,Park Ridge,60068
+LOC00140,United States,Central,Texas,Amarillo,79109
+LOC00141,United States,East,New York,Lindenhurst,11757
+LOC00142,United States,West,California,Los Angeles,90008
+LOC00143,United States,West,California,San Diego,92024
+LOC00144,United States,Central,Texas,Huntsville,77340
+LOC00145,United States,East,New York,Rochester,14609
+LOC00146,United States,South,Arkansas,Fayetteville,72701
+LOC00147,United States,West,California,Costa Mesa,92627
+LOC00148,United States,West,Colorado,Parker,80134
+LOC00149,United States,South,Georgia,Atlanta,30318
+LOC00150,United States,Central,Missouri,Gladstone,64118
+LOC00151,United States,West,Montana,Great Falls,59405
+LOC00152,United States,Central,Michigan,Detroit,48234
+LOC00153,United States,South,Florida,Lakeland,33801
+LOC00154,United States,South,Alabama,Montgomery,36116
+LOC00155,United States,West,Arizona,Mesa,85204
+LOC00156,United States,Central,Illinois,Chicago,60653
+LOC00157,United States,Central,Wisconsin,Green Bay,54302
+LOC00158,United States,East,Ohio,Springfield,45503
+LOC00159,United States,West,California,Anaheim,92804
+LOC00160,United States,West,Washington,Marysville,98270
+LOC00161,United States,West,Oregon,Salem,97301
+LOC00162,United States,Central,Texas,Laredo,78041
+LOC00163,United States,Central,Texas,Dallas,75217
+LOC00164,United States,East,Ohio,Grove City,43123
+LOC00165,United States,East,New York,New York City,10011
+LOC00166,United States,Central,Michigan,Dearborn,48126
+LOC00167,United States,South,Georgia,Warner Robins,31088
+LOC00168,United States,West,California,Vallejo,94591
+LOC00169,United States,West,California,Mission Viejo,92691
+LOC00170,United States,Central,Michigan,Rochester Hills,48307
+LOC00171,United States,East,New Jersey,Plainfield,7060
+LOC00172,United States,West,Arizona,Sierra Vista,85635
+LOC00173,United States,West,Washington,Vancouver,98661
+LOC00174,United States,Central,Illinois,Aurora,60505
+LOC00175,United States,Central,Texas,Arlington,76017
+LOC00176,United States,South,Kentucky,Louisville,40214
+LOC00177,United States,Central,Texas,Dallas,75081
+LOC00178,United States,East,Ohio,Cleveland,44105
+LOC00179,United States,Central,Texas,Tyler,75701
+LOC00180,United States,South,North Carolina,Burlington,27217
+LOC00181,United States,South,Virginia,Waynesboro,22980
+LOC00182,United States,East,Pennsylvania,Chester,19013
+LOC00183,United States,South,North Carolina,Cary,27511
+LOC00184,United States,South,Florida,Palm Coast,32137
+LOC00185,United States,East,New York,Mount Vernon,10550
+LOC00186,United States,Central,Michigan,Detroit,48205
+LOC00187,United States,South,Florida,Hialeah,33012
+LOC00188,United States,East,New York,Oceanside,11572
+LOC00189,United States,West,California,San Diego,92105
+LOC00190,United States,Central,Illinois,Evanston,60201
+LOC00191,United States,Central,Michigan,Trenton,48183
+LOC00192,United States,Central,Minnesota,Cottage Grove,55016
+LOC00193,United States,South,Louisiana,Bossier City,71111
+LOC00194,United States,Central,Iowa,Des Moines,50315
+LOC00195,United States,West,California,Lancaster,93534
+LOC00196,United States,South,Virginia,Richmond,23223
+LOC00197,United States,South,North Carolina,Asheville,28806
+LOC00198,United States,West,California,Lake Elsinore,92530
+LOC00199,United States,Central,Nebraska,Omaha,68104
+LOC00200,United States,West,Washington,Edmonds,98026
+LOC00201,United States,West,California,Santa Ana,92704
+LOC00202,United States,Central,Wisconsin,Milwaukee,53209
+LOC00203,United States,South,Kentucky,Florence,41042
+LOC00204,United States,East,Ohio,Lorain,44052
+LOC00205,United States,East,New Jersey,Linden,7036
+LOC00206,United States,West,California,Salinas,93905
+LOC00207,United States,East,New Jersey,New Brunswick,8901
+LOC00208,United States,East,Pennsylvania,Lancaster,17602
+LOC00209,United States,East,New Hampshire,Concord,3301
+LOC00210,United States,East,Maryland,Columbia,21044
+LOC00211,United States,Central,Texas,Garland,75043
+LOC00212,United States,East,Connecticut,Norwich,6360
+LOC00213,United States,South,Virginia,Alexandria,22304
+LOC00214,United States,East,Ohio,Toledo,43615
+LOC00215,United States,West,New Mexico,Farmington,87401
+LOC00216,United States,West,California,Riverside,92503
+LOC00217,United States,West,California,Torrance,90503
+LOC00218,United States,Central,Texas,Round Rock,78664
+LOC00219,United States,West,California,Oceanside,92054
+LOC00220,United States,South,Florida,Boca Raton,33433
+LOC00221,United States,South,Virginia,Virginia Beach,23464
+LOC00222,United States,West,California,Murrieta,92563
+LOC00223,United States,South,North Carolina,Jacksonville,28540
+LOC00224,United States,Central,Iowa,Burlington,52601
+LOC00225,United States,West,Washington,Olympia,98502
+LOC00226,United States,East,District of Columbia,Washington,20016
+LOC00227,United States,Central,Missouri,Jefferson City,65109
+LOC00228,United States,Central,Missouri,Saint Peters,63376
+LOC00229,United States,Central,Illinois,Rockford,61107
+LOC00230,United States,South,Florida,Miami,33142
+LOC00231,United States,Central,Texas,Brownsville,78521
+LOC00232,United States,East,New York,Yonkers,10701
+LOC00233,United States,West,California,Oakland,94601
+LOC00234,United States,South,North Carolina,Monroe,28110
+LOC00235,United States,East,Maryland,Clinton,20735
+LOC00236,United States,West,California,Encinitas,92024
+LOC00237,United States,South,Georgia,Roswell,30076
+LOC00238,United States,South,Arkansas,Jonesboro,72401
+LOC00239,United States,Central,Indiana,Richmond,47374
+LOC00240,United States,West,California,Antioch,94509
+LOC00241,United States,South,Florida,Homestead,33030
+LOC00242,United States,Central,Indiana,La Porte,46350
+LOC00243,United States,Central,Michigan,Lansing,48911
+LOC00244,United States,East,Ohio,Cuyahoga Falls,44221
+LOC00245,United States,West,Nevada,Reno,89502
+LOC00246,United States,South,Virginia,Harrisonburg,22801
+LOC00247,United States,West,California,Escondido,92025
+LOC00248,United States,Central,Michigan,Royal Oak,48073
+LOC00249,United States,East,Maryland,Rockville,20852
+LOC00250,United States,South,Florida,Coral Springs,33065
+LOC00251,United States,East,New York,Buffalo,14215
+LOC00252,United States,South,Florida,Boynton Beach,33437
+LOC00253,United States,South,Mississippi,Gulfport,39503
+LOC00254,United States,West,California,Fresno,93727
+LOC00255,United States,South,North Carolina,Greenville,27834
+LOC00256,United States,East,New York,Long Beach,11561
+LOC00257,United States,South,Alabama,Florence,35630
+LOC00258,United States,South,Georgia,Macon,31204
+LOC00259,United States,Central,Iowa,Cedar Rapids,52402
+LOC00260,United States,East,Rhode Island,Providence,2908
+LOC00261,United States,West,Colorado,Pueblo,81001
+LOC00262,United States,West,California,Fairfield,94533
+LOC00263,United States,South,Florida,Deltona,32725
+LOC00264,United States,South,Kentucky,Murray,42071
+LOC00265,United States,East,Connecticut,Middletown,6457
+LOC00266,United States,East,New York,Freeport,11520
+LOC00267,United States,West,California,Pico Rivera,90660
+LOC00268,United States,West,Utah,Provo,84604
+LOC00269,United States,West,Utah,Pleasant Grove,84062
+LOC00270,United States,South,Georgia,Smyrna,30080
+LOC00271,United States,South,Virginia,Salem,24153
+LOC00272,United States,East,Ohio,Parma,44134
+LOC00273,United States,South,Alabama,Mobile,36608
+LOC00274,United States,East,Massachusetts,New Bedford,2740
+LOC00275,United States,Central,Texas,Irving,75061
+LOC00276,United States,East,New Jersey,Vineland,8360
+LOC00277,United States,West,Arizona,Glendale,85301
+LOC00278,United States,East,New York,Niagara Falls,14304
+LOC00279,United States,South,North Carolina,Thomasville,27360
+LOC00280,United States,West,California,Westminster,92683
+LOC00281,United States,South,Tennessee,Jackson,38301
+LOC00282,United States,Central,Texas,Coppell,75019
+LOC00283,United States,West,California,Pomona,91767
+LOC00284,United States,West,Nevada,North Las Vegas,89031
+LOC00285,United States,East,Pennsylvania,Allentown,18103
+LOC00286,United States,East,Delaware,Newark,19711
+LOC00287,United States,West,Arizona,Tempe,85281
+LOC00288,United States,West,California,Laguna Niguel,92677
+LOC00289,United States,East,New Jersey,Bridgeton,8302
+LOC00290,United States,East,Massachusetts,Everett,2149
+LOC00291,United States,East,New York,Watertown,13601
+LOC00292,United States,Central,Wisconsin,Appleton,54915
+LOC00293,United States,West,Washington,Bellevue,98006
+LOC00294,United States,Central,Texas,Allen,75002
+LOC00295,United States,Central,Texas,El Paso,79907
+LOC00296,United States,Central,Texas,Grapevine,76051
+LOC00297,United States,Central,Texas,Carrollton,75007
+LOC00298,United States,South,Tennessee,Smyrna,37167
+LOC00299,United States,West,Washington,Kent,98031
+LOC00300,United States,South,Louisiana,Lafayette,70506
+LOC00301,United States,West,Oregon,Tigard,97224
+LOC00302,United States,Central,Illinois,Skokie,60076
+LOC00303,United States,Central,Texas,Plano,75023
+LOC00304,United States,South,Virginia,Suffolk,23434
+LOC00305,United States,Central,Indiana,Indianapolis,46203
+LOC00306,United States,East,New Jersey,Bayonne,7002
+LOC00307,United States,South,North Carolina,Fayetteville,28314
+LOC00308,United States,South,North Carolina,Greensboro,27405
+LOC00309,United States,East,Maryland,Baltimore,21215
+LOC00310,United States,Central,Wisconsin,Kenosha,53142
+LOC00311,United States,Central,Kansas,Olathe,66062
+LOC00312,United States,West,Washington,Auburn,98002
+LOC00313,United States,Central,Oklahoma,Tulsa,74133
+LOC00314,United States,West,Oregon,Redmond,97756
+LOC00315,United States,South,North Carolina,Raleigh,27604
+LOC00316,United States,Central,Oklahoma,Muskogee,74403
+LOC00317,United States,East,Connecticut,Meriden,6450
+LOC00318,United States,South,Kentucky,Bowling Green,42104
+LOC00319,United States,Central,Indiana,South Bend,46614
+LOC00320,United States,East,Connecticut,Bristol,6010
+LOC00321,United States,West,Nevada,Henderson,89015
+LOC00322,United States,West,Washington,Spokane,99207
+LOC00323,United States,Central,Texas,Keller,76248
+LOC00324,United States,East,Ohio,Fairfield,45014
+LOC00325,United States,South,Florida,Port Orange,32127
+LOC00326,United States,West,Oregon,Medford,97504
+LOC00327,United States,South,Virginia,Charlottesville,22901
+LOC00328,United States,West,Montana,Missoula,59801
+LOC00329,United States,South,Florida,Miami,33178
+LOC00330,United States,South,South Carolina,Florence,29501
+LOC00331,United States,West,Oregon,Springfield,97477
+LOC00332,United States,South,Florida,Apopka,32712
+LOC00333,United States,East,Pennsylvania,Reading,19601
+LOC00334,United States,West,Colorado,Broomfield,80020
+LOC00335,United States,Central,Missouri,Springfield,65807
+LOC00336,United States,East,New Jersey,Paterson,7501
+LOC00337,United States,Central,Oklahoma,Oklahoma City,73120
+LOC00338,United States,South,Virginia,Chesapeake,23320
+LOC00339,United States,Central,Texas,Lubbock,79424
+LOC00340,United States,Central,Missouri,Columbia,65203
+LOC00341,United States,South,Tennessee,Johnson City,37604
+LOC00342,United States,South,Alabama,Auburn,36830
+LOC00343,United States,West,California,San Bernardino,92404
+LOC00344,United States,East,Massachusetts,Leominster,1453
+LOC00345,United States,West,Montana,Bozeman,59715
+LOC00346,United States,West,Arizona,Peoria,85345
+LOC00347,United States,East,Ohio,Lakewood,44107
+LOC00348,United States,East,New Jersey,Perth Amboy,8861
+LOC00349,United States,West,California,Ontario,91761
+LOC00350,United States,West,California,Rancho Cucamonga,91730
+LOC00351,United States,Central,Minnesota,Moorhead,56560
+LOC00352,United States,Central,Texas,Mesquite,75150
+LOC00353,United States,West,California,Stockton,95207
+LOC00354,United States,South,Florida,Ormond Beach,32174
+LOC00355,United States,West,California,Sunnyvale,94086
+LOC00356,United States,East,New Hampshire,Dover,3820
+LOC00357,United States,East,Pennsylvania,York,17403
+LOC00358,United States,Central,Texas,College Station,77840
+LOC00359,United States,Central,Missouri,Saint Louis,63116
+LOC00360,United States,East,Massachusetts,Quincy,2169
+LOC00361,United States,West,California,Manteca,95336
+LOC00362,United States,East,Ohio,Kent,44240
+LOC00363,United States,Central,Texas,San Angelo,76903
+LOC00364,United States,West,Utah,Salt Lake City,84106
+LOC00365,United States,South,Alabama,Huntsville,35810
+LOC00366,United States,South,Tennessee,Knoxville,37918
+LOC00367,United States,South,Arkansas,Little Rock,72209
+LOC00368,United States,Central,Michigan,Lincoln Park,48146
+LOC00369,United States,East,Ohio,Marion,43302
+LOC00370,United States,West,Colorado,Littleton,80122
+LOC00371,United States,East,Vermont,Burlington,5408
+LOC00372,United States,East,Maine,Bangor,4401
+LOC00373,United States,South,Mississippi,Southaven,38671
+LOC00374,United States,Central,Indiana,New Castle,47362
+LOC00375,United States,Central,Michigan,Midland,48640
+LOC00376,United States,Central,South Dakota,Sioux Falls,57103
+LOC00377,United States,West,Colorado,Fort Collins,80525
+LOC00378,United States,Central,Indiana,Lafayette,47905
+LOC00379,United States,South,Tennessee,Clarksville,37042
+LOC00380,United States,West,California,Sacramento,95823
+LOC00381,United States,West,California,Thousand Oaks,91360
+LOC00382,United States,East,Massachusetts,Malden,2148
+LOC00383,United States,East,Massachusetts,Holyoke,1040
+LOC00384,United States,West,New Mexico,Albuquerque,87105
+LOC00385,United States,West,Nevada,Sparks,89431
+LOC00386,United States,West,California,Coachella,92236
+LOC00387,United States,Central,Illinois,Elmhurst,60126
+LOC00388,United States,East,New Jersey,Passaic,7055
+LOC00389,United States,South,South Carolina,North Charleston,29406
+LOC00390,United States,South,Virginia,Newport News,23602
+LOC00391,United States,East,New York,Jamestown,14701
+LOC00392,United States,Central,Indiana,Mishawaka,46544
+LOC00393,United States,East,Ohio,Bowling Green,43402
+LOC00394,United States,West,California,La Quinta,92253
+LOC00395,United States,South,Florida,Tallahassee,32303
+LOC00396,United States,South,Tennessee,Nashville,37211
+LOC00397,United States,West,Washington,Bellingham,98226
+LOC00398,United States,Central,Illinois,Woodstock,60098
+LOC00399,United States,Central,Texas,Haltom City,76117
+LOC00400,United States,Central,Illinois,Wheeling,60090
+LOC00401,United States,South,South Carolina,Summerville,29483
+LOC00402,United States,South,Arkansas,Hot Springs,71901
+LOC00403,United States,West,Colorado,Englewood,80112
+LOC00404,United States,East,Ohio,Lancaster,43130
+LOC00405,United States,West,New Mexico,Las Cruces,88001
+LOC00406,United States,South,Alabama,Hoover,35244
+LOC00407,United States,Central,Texas,Frisco,75034
+LOC00408,United States,West,California,Vacaville,95687
+LOC00409,United States,West,Utah,Murray,84107
+LOC00410,United States,Central,Wisconsin,Waukesha,53186
+LOC00411,United States,West,California,Bakersfield,93309
+LOC00412,United States,South,Florida,Pompano Beach,33068
+LOC00413,United States,East,Ohio,Troy,45373
+LOC00414,United States,Central,Texas,Corpus Christi,78415
+LOC00415,United States,West,California,Redondo Beach,90278
+LOC00416,United States,South,Florida,Orlando,32839
+LOC00417,United States,East,New Jersey,Orange,7050
+LOC00418,United States,South,Louisiana,Lake Charles,70601
+LOC00419,United States,Central,Illinois,Highland Park,60035
+LOC00420,United States,East,New York,Hempstead,11550
+LOC00421,United States,Central,Indiana,Noblesville,46060
+LOC00422,United States,Central,Minnesota,Apple Valley,55124
+LOC00423,United States,South,South Carolina,Mount Pleasant,29464
+LOC00424,United States,Central,Michigan,Sterling Heights,48310
+LOC00425,United States,Central,Wisconsin,Eau Claire,54703
+LOC00426,United States,Central,Texas,Pharr,78577
+LOC00427,United States,West,Montana,Billings,59102
+LOC00428,United States,West,Oregon,Gresham,97030
+LOC00429,United States,South,Tennessee,Chattanooga,37421
+LOC00430,United States,West,Idaho,Meridian,83642
+LOC00431,United States,West,California,Apple Valley,92307
+LOC00432,United States,Central,Illinois,Bolingbrook,60440
+LOC00433,United States,Central,Minnesota,Maple Grove,55369
+LOC00434,United States,West,California,Woodland,95695
+LOC00435,United States,Central,Texas,Missouri City,77489
+LOC00436,United States,Central,Texas,Pearland,77581
+LOC00437,United States,West,California,San Mateo,94403
+LOC00438,United States,Central,Michigan,Grand Rapids,49505
+LOC00439,United States,West,California,Visalia,93277
+LOC00440,United States,Central,Kansas,Overland Park,66212
+LOC00441,United States,West,California,Temecula,92592
+LOC00442,United States,West,California,Yucaipa,92399
+LOC00443,United States,East,Massachusetts,Revere,2151
+LOC00444,United States,Central,Texas,Conroe,77301
+LOC00445,United States,Central,Illinois,Tinley Park,60477
+LOC00446,United States,Central,Iowa,Dubuque,52001
+LOC00447,United States,Central,Michigan,Dearborn Heights,48127
+LOC00448,United States,West,New Mexico,Santa Fe,87505
+LOC00449,United States,South,North Carolina,Hickory,28601
+LOC00450,United States,Central,Illinois,Carol Stream,60188
+LOC00451,United States,Central,Minnesota,Saint Cloud,56301
+LOC00452,United States,South,Florida,North Miami,33161
+LOC00453,United States,Central,Indiana,Lawrence,46226
+LOC00454,United States,South,Florida,Plantation,33317
+LOC00455,United States,South,Florida,Port Saint Lucie,34952
+LOC00456,United States,South,South Carolina,Rock Hill,29730
+LOC00457,United States,Central,Texas,Odessa,79762
+LOC00458,United States,Central,Wisconsin,West Allis,53214
+LOC00459,United States,West,California,Chula Vista,91911
+LOC00460,United States,Central,Kansas,Manhattan,66502
+LOC00461,United States,East,Pennsylvania,Altoona,16602
+LOC00462,United States,West,Colorado,Thornton,80229
+LOC00463,United States,Central,Illinois,Champaign,61821
+LOC00464,United States,Central,Indiana,Bloomington,47401
+LOC00465,United States,South,Arkansas,Texarkana,71854
+LOC00466,United States,Central,Texas,Edinburg,78539
+LOC00467,United States,Central,Texas,Baytown,77520
+LOC00468,United States,Central,Indiana,Greenwood,46142
+LOC00469,United States,West,California,Lakewood,90712
+LOC00470,United States,East,Rhode Island,Woonsocket,2895
+LOC00471,United States,Central,Wisconsin,Superior,54880
+LOC00472,United States,Central,Texas,Bedford,76021
+LOC00473,United States,West,Washington,Covington,98042
+LOC00474,United States,Central,Oklahoma,Broken Arrow,74012
+LOC00475,United States,South,Florida,Miramar,33023
+LOC00476,United States,South,Florida,Hollywood,33021
+LOC00477,United States,Central,Texas,Deer Park,77536
+LOC00478,United States,Central,Kansas,Wichita,67212
+LOC00479,United States,Central,Texas,Mcallen,78501
+LOC00480,United States,Central,Iowa,Iowa City,52240
+LOC00481,United States,West,Idaho,Boise,83704
+LOC00482,United States,East,Rhode Island,Cranston,2920
+LOC00483,United States,Central,Illinois,Freeport,61032
+LOC00484,United States,Central,Texas,Port Arthur,77642
+LOC00485,United States,West,California,Citrus Heights,95610
+LOC00486,United States,Central,Texas,The Colony,75056
+LOC00487,United States,West,Washington,Redmond,98052
+LOC00488,United States,South,Florida,Daytona Beach,32114
+LOC00489,United States,West,Arizona,Bullhead City,86442
+LOC00490,United States,Central,Indiana,Portage,46368
+LOC00491,United States,Central,North Dakota,Fargo,58103
+LOC00492,United States,Central,Indiana,Elkhart,46514
+LOC00493,United States,West,California,San Gabriel,91776
+LOC00494,United States,South,Florida,Margate,33063
+LOC00495,United States,South,Georgia,Sandy Springs,30328
+LOC00496,United States,East,Ohio,Mentor,44060
+LOC00497,United States,Central,Oklahoma,Lawton,73505
+LOC00498,United States,South,Virginia,Hampton,23666
+LOC00499,United States,East,New York,Rome,13440
+LOC00500,United States,Central,Wisconsin,La Crosse,54601
+LOC00501,United States,West,Idaho,Lewiston,83501
+LOC00502,United States,South,Mississippi,Hattiesburg,39401
+LOC00503,United States,West,California,Danville,94526
+LOC00504,United States,Central,Michigan,Mount Pleasant,48858
+LOC00505,United States,West,Utah,Logan,84321
+LOC00506,United States,East,Connecticut,Waterbury,6708
+LOC00507,United States,South,Georgia,Athens,30605
+LOC00508,United States,East,Maine,Lewiston,4240
+LOC00509,United States,Central,Illinois,Danville,61832
+LOC00510,United States,West,Arizona,Avondale,85323
+LOC00511,United States,South,Georgia,Marietta,30062
+LOC00512,United States,West,Arizona,Yuma,85364
+LOC00513,United States,Central,Wisconsin,Wausau,54401
+LOC00514,United States,West,Washington,Pasco,99301
+LOC00515,United States,Central,Illinois,Oak Park,60302
+LOC00516,United States,South,Florida,Pensacola,32503
+LOC00517,United States,Central,Texas,League City,77573
+LOC00518,United States,East,Maryland,Gaithersburg,20877
+LOC00519,United States,West,Utah,Lehi,84043
+LOC00520,United States,South,Alabama,Tuscaloosa,35401
+LOC00521,United States,West,California,Moreno Valley,92553
+LOC00522,United States,South,Kentucky,Georgetown,40324
+LOC00523,United States,West,Colorado,Loveland,80538
+LOC00524,United States,West,Arizona,Chandler,85224
+LOC00525,United States,West,Montana,Helena,59601
+LOC00526,United States,Central,Missouri,Kirkwood,63122
+LOC00527,United States,Central,Texas,Waco,76706
+LOC00528,United States,Central,Michigan,Roseville,48066
+LOC00529,United States,Central,Illinois,Frankfort,60423
+LOC00530,United States,East,Pennsylvania,Bethlehem,18018
+LOC00531,United States,Central,Minnesota,Roseville,55113
+LOC00532,United States,Central,Nebraska,Grand Island,68801
+LOC00533,United States,Central,Minnesota,Woodbury,55125
+LOC00534,United States,Central,Michigan,Oak Park,48237
+LOC00535,United States,South,Arkansas,Rogers,72756
+LOC00536,United States,West,New Mexico,Clovis,88101
+LOC00537,United States,South,Florida,Jupiter,33458
+LOC00538,United States,West,California,Santa Barbara,93101
+LOC00539,United States,Central,Texas,Cedar Hill,75104
+LOC00540,United States,Central,Nebraska,Norfolk,68701
+LOC00541,United States,West,Utah,Draper,84020
+LOC00542,United States,Central,Michigan,Ann Arbor,48104
+LOC00543,United States,West,California,La Mesa,91941
+LOC00544,United States,West,Idaho,Pocatello,83201
+LOC00545,United States,Central,Michigan,Holland,49423
+LOC00546,United States,East,Connecticut,Milford,6460
+LOC00547,United States,Central,Illinois,Buffalo Grove,60089
+LOC00548,United States,West,California,Lake Forest,92630
+LOC00549,United States,West,California,Redding,96003
+LOC00550,United States,West,California,Chico,95928
+LOC00551,United States,East,New York,Utica,13501
+LOC00552,United States,South,Arkansas,Conway,72032
+LOC00553,United States,West,Wyoming,Cheyenne,82001
+LOC00554,United States,South,Kentucky,Owensboro,42301
+LOC00555,United States,West,Idaho,Caldwell,83605
+LOC00556,United States,South,Louisiana,Kenner,70065
+LOC00557,United States,East,New Hampshire,Nashua,3060
+LOC00558,United States,South,Tennessee,Bartlett,38134
+LOC00559,United States,West,California,Redwood City,94061
+LOC00560,United States,South,Tennessee,Lebanon,37087
+LOC00561,United States,West,California,Santa Maria,93454
+LOC00562,United States,Central,Illinois,Des Plaines,60016
+LOC00563,United States,West,Washington,Longview,98632
+LOC00564,United States,South,Tennessee,Hendersonville,37075
+LOC00565,United States,Central,Iowa,Waterloo,50701
+LOC00566,United States,East,Massachusetts,Cambridge,2138
+LOC00567,United States,Central,Illinois,Palatine,60067
+LOC00568,United States,East,Massachusetts,Beverly,1915
+LOC00569,United States,West,Oregon,Eugene,97405
+LOC00570,United States,West,California,Oxnard,93030
+LOC00571,United States,West,Washington,Renton,98059
+LOC00572,United States,Central,Illinois,Glenview,60025
+LOC00573,United States,South,Florida,Delray Beach,33445
+LOC00574,United States,West,Colorado,Commerce City,80022
+LOC00575,United States,Central,Texas,Texas City,77590
+LOC00576,United States,South,North Carolina,Wilson,27893
+LOC00577,United States,West,New Mexico,Rio Rancho,87124
+LOC00578,United States,South,North Carolina,Goldsboro,27534
+LOC00579,United States,West,Washington,Everett,98208
+LOC00580,United States,West,California,Montebello,90640
+LOC00581,United States,West,California,El Cajon,92020
+LOC00582,United States,Central,Texas,Beaumont,77705
+LOC00583,United States,South,Florida,West Palm Beach,33407
+LOC00584,United States,Central,Texas,Abilene,79605
+LOC00585,United States,Central,Illinois,Normal,61761
+LOC00586,United States,Central,Missouri,Saint Charles,63301
+LOC00587,United States,Central,Illinois,Saint Charles,60174
+LOC00588,United States,West,California,Camarillo,93010
+LOC00589,United States,West,Oregon,Hillsboro,97123
+LOC00590,United States,West,California,Burbank,91505
+LOC00591,United States,West,California,Modesto,95351
+LOC00592,United States,Central,Kansas,Garden City,67846
+LOC00593,United States,East,New Jersey,Atlantic City,8401
+LOC00594,United States,West,Colorado,Longmont,80501
+LOC00595,United States,West,California,Davis,95616
+LOC00596,United States,East,West Virginia,Wheeling,26003
+LOC00597,United States,West,California,Morgan Hill,95037
+LOC00598,United States,East,New Jersey,Clifton,7011
+LOC00599,United States,Central,Wisconsin,Sheboygan,53081
+LOC00600,United States,South,Georgia,East Point,30344
+LOC00601,United States,Central,South Dakota,Rapid City,57701
+LOC00602,United States,East,Massachusetts,Andover,1810
+LOC00603,United States,South,Florida,Kissimmee,34741
+LOC00604,United States,East,Connecticut,Shelton,6484
+LOC00605,United States,East,Connecticut,Danbury,6810
+LOC00606,United States,Central,Iowa,Marion,52302
+LOC00607,United States,South,Florida,Sanford,32771
+LOC00608,United States,Central,Texas,San Marcos,78666
+LOC00609,United States,West,Colorado,Greeley,80634
+LOC00610,United States,Central,Texas,Mansfield,76063
+LOC00611,United States,East,Ohio,Elyria,44035
+LOC00612,United States,West,Idaho,Twin Falls,83301
+LOC00613,United States,South,Florida,Coral Gables,33134
+LOC00614,United States,Central,Illinois,Romeoville,60441
+LOC00615,United States,East,Massachusetts,Marlborough,1752
+LOC00616,United States,East,Maryland,Laurel,20707
+LOC00617,United States,Central,Texas,Bryan,77803
+LOC00618,United States,South,Arkansas,Pine Bluff,71603
+LOC00619,United States,Central,South Dakota,Aberdeen,57401
+LOC00620,United States,East,Maryland,Hagerstown,21740
+LOC00621,United States,East,New Jersey,East Orange,7017
+LOC00622,United States,Central,Illinois,Arlington Heights,60004
+LOC00623,United States,Central,Illinois,Oswego,60543
+LOC00624,United States,Central,Minnesota,Coon Rapids,55433
+LOC00625,United States,West,California,San Clemente,92672
+LOC00626,United States,West,California,Dublin,94568
+LOC00627,United States,West,California,San Luis Obispo,93405
+LOC00628,United States,South,Arkansas,Springdale,72762
+LOC00629,United States,West,California,Lodi,95240
+LOC00630,United States,Central,Texas,La Porte,77571
+LOC00631,United States,East,Ohio,Mason,45040
+LOC00632,United States,South,Georgia,Woodstock,30188
